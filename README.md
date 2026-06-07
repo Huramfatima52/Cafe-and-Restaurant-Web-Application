@@ -1,16 +1,15 @@
 # Brew&Bite Cafe and Restaurant website 
 A full-stack Cafe and Restaurant Management System built using PHP, MySQL, HTML, CSS and JavaScript.
 
-## Features
-- Admin Panel Features:
+## Admin Panel Features:
 - Product Management (Add, Edit, Delete)
 - Category Management
 - Customer Management
 - Reviews Management
 - Analytics
 - Dashboard Overview
-
-- Customer Side Features:
+- 
+## Customer Side Features:
 - Menu Browsing
 - Product Search & Filtering
 - Add to Cart/Order System
