@@ -6,9 +6,8 @@ A full-stack Cafe and Restaurant Management System built using PHP, MySQL, HTML,
 - Category Management
 - Customer Management
 - Reviews Management
-- Analytics
+- Sales & Analytics
 - Dashboard Overview
-- 
 ## Customer Side Features:
 - Menu Browsing
 - Product Search & Filtering
